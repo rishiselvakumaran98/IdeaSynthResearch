@@ -1,0 +1,11 @@
+openai
+azure-core
+python-dotenv
+numpy
+bs4
+requests
+lxml
+scikit-learn
+matplotlib
+umap-learn
+tiktoken
